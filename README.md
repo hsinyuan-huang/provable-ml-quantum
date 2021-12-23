@@ -1,8 +1,12 @@
 # Provably efficient machine learning for quantum many-body problems
 
-This is an open source implementation for the paper https://arxiv.org/abs/2106.12627. We require `g++` and `python` version 3. The Python package we used are given in `requirements.txt`.
+This is an open source implementation for the paper https://arxiv.org/abs/2106.12627.
+
+We require `g++` and `python` version 3. The Python package we used are given in `requirements.txt`.
 
 ### Quick Start
+
+Do the following in the terminal.
 
 ```shell
 #
