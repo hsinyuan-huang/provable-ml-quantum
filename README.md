@@ -26,5 +26,5 @@ Do the following in the terminal.
 > ./shadow_kernel_topological 10 500 10 5 13131 1.0 > topological_alldep_tr=10.txt
 
 # Open the iPython notebook
-# jupyter notebook
+> jupyter notebook
 ```
