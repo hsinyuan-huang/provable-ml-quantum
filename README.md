@@ -18,8 +18,8 @@ Do the following in the terminal.
 
 # Run the C++ code
 #    ./shadow_kernel_topological [length L in toric code (total number of qubits = 2 L x L)]
-#                                [number of randomized Pauli measurements (for creating classical shadow)]
-#                                [number of random states (half trivial, half topologically-ordered)]
+#                                [number of randomized Pauli measurements]
+#                                [number of random states (half trivial, half topological)]
 #                                [maximum depth for generating random states]
 #                                [random seed]
 #                                [gamma in shadow kernel (1.0 is usually a good choice)]
