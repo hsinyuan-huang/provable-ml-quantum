@@ -10,7 +10,8 @@ Do the following in the terminal.
 
 ```shell
 #
-# C++ code is only used for classifying topological phases
+# C++ code is only used for classifying topological phases.
+# Python code is used for both predicting ground states and classifying topological phases.
 #
 
 # Compile the C++ code
@@ -26,5 +27,6 @@ Do the following in the terminal.
 > ./shadow_kernel_topological 10 500 10 5 13131 1.0 > topological_alldep_tr=10.txt
 
 # Open the iPython notebook
+# Both for predicting ground states and classifying topological phases.
 > jupyter notebook
 ```
