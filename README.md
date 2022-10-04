@@ -2,7 +2,7 @@
 
 This is an open source implementation for the paper https://arxiv.org/abs/2106.12627.
 
-We require `g++` and `python` version 3. The Python package we used are given in `requirements.txt`.
+We require `g++` and `python` version 3.
 
 ### Quick Start
 
